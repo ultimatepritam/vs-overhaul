@@ -4,5 +4,5 @@ Will be maintaining this as I have time, thanks for your understanding!
 
 ## Screenshots
 
-![code screenshot](vs-overhaul-cs.png)
+![code screenshot](https://raw.githubusercontent.com/ultimatepritam/vs-overhaul/main/vs-overhaul-cs.png)
 
