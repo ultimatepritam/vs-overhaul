@@ -1,0 +1,21 @@
+{
+  "name": "vs-overhaul",
+  "displayName": "VS Overhaul",
+  "description": "VS Code Overhaul",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.69.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "VS Code Overhaul",
+        "uiTheme": "vs-dark",
+        "path": "./themes/VS Code Overhaul-color-theme.json"
+      }
+    ]
+  }
+}
