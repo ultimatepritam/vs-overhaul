@@ -2,7 +2,23 @@
   "name": "vs-overhaul",
   "displayName": "VS Overhaul",
   "description": "VS Code Overhaul",
+  "icon": "logo.png",
   "version": "0.0.1",
+  "publisher": "Ultimatepritam",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ultimatepritam/vs-overhaul"
+  },
+  "keywords": [
+    "theme",
+    "dark theme",
+    "overhaul",
+    "vs overhaul",
+    "vs code overhaul",
+    "vs theme",
+    "visual studio theme",
+    "slate"
+  ],
   "engines": {
     "vscode": "^1.69.0"
   },
